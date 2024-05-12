@@ -6,7 +6,6 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 🌟 **Education:** B.S. in Information Technology (Cybersecurity & Digital Forensics Track)
 - 🏆 **GPA:** 3.8 | **Honors:** TNU Honor Society
 - 💼 **Experience:** IT Helpdesk at Trevecca Nazarene University | Self-employed in IT services
-- 🚀 **Projects:** Check out my [GitHub Repository](https://github.com/luswepo442) for a portfolio of IT & Cybersecurity projects.
 
 ### Professional Highlights
 - 💻 **Technical Skills:** Proficient in HTML, Java, C++, and experienced in intrusion detection, crisis management, and data structures.
@@ -22,4 +21,3 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 ### Let's Connect
 - 🔗 Connect with me on [LinkedIn](your-linkedin-profile)
 - 📧 Email: daniel.luswepo@gmail.com
-- 🌐 Explore my projects on [GitHub](https://github.com/luswepo442)
