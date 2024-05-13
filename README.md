@@ -10,7 +10,6 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 ### Professional Highlights
 - 💻 **Technical Skills:** Proficient in HTML, Java, C++, Python, and experienced in intrusion detection, crisis management, and data structures.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
