@@ -8,7 +8,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 💼 **Experience:** Self-employed in IT services | IT Helpdesk Support - Student Worker | IT client services Technician - Student Worker
 
 ### Professional Highlights
-- 💻 **Technical Skills:** Proficient in HTML, Java, C++, Python, and experienced in intrusion detection, crisis management, and data structures.
+- 💻 **Technical Skills:** Proficient in HTML, Java,data structures in java, C++, Python, Hardware and software troubleshooting. I am currently learning intrusion detection and crisis management in cybersecurity.
 
 <p align="left">
 </p>
