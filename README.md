@@ -1,6 +1,6 @@
 ## Hi there, I'm Luswepo 👋
 
-I'm currently pursuing a Bachelor's degree in Information Technology with a focus on Cybersecurity & Digital Forensics at Trevecca Nazarene University, expected to graduate in May 2026. My passion lies in securing systems and leveraging technology to solve complex challenges.
+I'm currently pursuing a Bachelor's degree in Information Technology with a focus on Cybersecurity & Digital Forensics at Trevecca Nazarene University, expected to graduate in May 2026. My passion lies in programming, securing systems and leveraging technology to solve complex challenges.
 
 ### About Me
 - 🌟 **Education:** B.S. in Information Technology (Cybersecurity & Digital Forensics Track)
