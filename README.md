@@ -1,4 +1,4 @@
-## Hi there, I'm Daniel 👋
+## Hi there, I'm Luswepo 👋
 
 I'm currently pursuing a Bachelor's degree in Information Technology with a focus on Cybersecurity & Digital Forensics at Trevecca Nazarene University, expected to graduate in May 2026. My passion lies in securing systems and leveraging technology to solve complex challenges.
 
