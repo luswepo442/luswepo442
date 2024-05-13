@@ -27,5 +27,5 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 🎓 **Continuous Learner:** Always expanding my knowledge in cybersecurity and emerging technologies.
 
 ### Let's Connect
-- 🔗 Connect with me on www.linkedin.com/in/luswepo-sinyinza-69843219a
+- 🔗 Connect with me at www.linkedin.com/in/luswepo-sinyinza-69843219a
 - 📧 Email: daniel.luswepo@gmail.com
