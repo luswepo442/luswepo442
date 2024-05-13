@@ -14,8 +14,6 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 🛠️ **Project Experience:** Developed Java applications for text processing using advanced data structures.
 - 🔐 **Security Expertise:** Conducted controlled attacks like SQL Injections and remote shell data extraction in secure environments.
 - 🌐 **Problem Solver:** Skilled in troubleshooting computer systems and providing technical support.
-- <h3 align="center">A passionate frontend developer from India</h3>
-
 
 ### What I Bring to the Table
 - 🤝 **Team Player:** Collaborative and effective communicator.
