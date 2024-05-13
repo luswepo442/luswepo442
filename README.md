@@ -5,7 +5,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 ### About Me
 - 🌟 **Education:** B.S. in Information Technology (Cybersecurity & Digital Forensics Track)
 - 🏆 **GPA:** 3.8 | **Honors:** TNU Honor Society
-- 💼 **Experience:** IT Helpdesk at Trevecca Nazarene University | Self-employed in IT services
+- 💼 **Experience:** Self-employed in IT services | IT Helpdesk Support - Student Worker | IT client services Technician - Student Worker
 
 ### Professional Highlights
 - 💻 **Technical Skills:** Proficient in HTML, Java, C++, and experienced in intrusion detection, crisis management, and data structures.
