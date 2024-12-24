@@ -6,7 +6,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 🌟 **Education:** B.S. in Information Technology (Cybersecurity & Digital Forensics Track)
 - 🏆 **Honors:** TNU Honor Society
 - 💼 **Experience:** Self-employed in IT services | IT Helpdesk Support - Student Worker | IT client services Technician - Student Worker
-
+- 🏆 **Certfications:** CompTia Security+
 ### Professional Highlights
 - 💻 **Technical Skills:** Proficient in HTML, Java,data structures in java, C++, Python, Hardware and software troubleshooting. I am currently learning intrusion detection and crisis management in cybersecurity.
 
