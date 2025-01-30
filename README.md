@@ -36,7 +36,7 @@ IT Support & Troubleshooting: Hardware & Software Troubleshooting, Jamf, Microso
 ### What I Bring to the Table
 - 🤝 **Team Player:** Collaborative and effective communicator.
 - 🕰️ **Time Management:** Able to meet project deadlines and manage tasks efficiently.
-- 🎓 **Continuous Learner:** Always expanding my knowledge in cybersecurity and emerging technologies.
+- 🎓 **Continuous Learner:** Always expanding my knowledge in cybersecurity, cloud computing and other emerging technologies.
 
 ### Let's Connect
 - 🔗 Connect with me at www.linkedin.com/in/luswepo-sinyinza-69843219a
