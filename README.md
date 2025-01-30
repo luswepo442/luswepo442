@@ -10,9 +10,13 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 ### Professional Highlights
 - 💻 **Technical Skills:**
 Cybersecurity: Security+, Intrusion Detection, Digital Forensics, Cryptography, Network Assurance
+
 Cloud Computing: AWS (studying for Solutions Architect Associate), Microsoft Azure
+
 Operating Systems: Kali Linux, Ubuntu, macOS, Windows
+
 Networking: Cisco Packet Tracer, Network Reconnaissance, Vulnerability Assessment
+
 Programming & Databases: Java, Python, MySQL, HTML
 IT Support & Troubleshooting: Hardware & Software Troubleshooting, Jamf, Microsoft Intune
 
