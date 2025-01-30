@@ -19,6 +19,7 @@ Operating Systems: Kali Linux, Ubuntu, macOS, Windows
 Networking: Cisco Packet Tracer, Network Reconnaissance, Vulnerability Assessment
 
 Programming & Databases: Java, Python, MySQL, HTML
+
 IT Support & Troubleshooting: Hardware & Software Troubleshooting, Jamf, Microsoft Intune
 
 <p align="left">
