@@ -8,7 +8,13 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 💼 **Experience:** Self-employed in IT services | IT Helpdesk Support - Student Worker | IT client services Technician - Student Worker
 - 🏆 **Certfications:** CompTia Security+, AWS Solutions Architect Associate(in progress)
 ### Professional Highlights
-- 💻 **Technical Skills:** Proficient in HTML, Java,data structures in java, C++, Python, Hardware and software troubleshooting. I am currently learning intrusion detection and crisis management in cybersecurity.
+- 💻 **Technical Skills:**
+Cybersecurity: Security+, Intrusion Detection, Digital Forensics, Cryptography, Network Assurance
+Cloud Computing: AWS (studying for Solutions Architect Associate), Microsoft Azure
+Operating Systems: Kali Linux, Ubuntu, macOS, Windows
+Networking: Cisco Packet Tracer, Network Reconnaissance, Vulnerability Assessment
+Programming & Databases: Java, Python, MySQL, HTML
+IT Support & Troubleshooting: Hardware & Software Troubleshooting, Jamf, Microsoft Intune
 
 <p align="left">
 </p>
