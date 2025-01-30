@@ -9,6 +9,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 - 🏆 **Certfications:** CompTia Security+, AWS Solutions Architect Associate(in progress)
 ### Professional Highlights
 - 💻 **Technical Skills:**
+
 Cybersecurity: Security+, Intrusion Detection, Digital Forensics, Cryptography, Network Assurance
 
 Cloud Computing: AWS (studying for Solutions Architect Associate), Microsoft Azure
