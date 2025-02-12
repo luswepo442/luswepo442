@@ -31,3 +31,4 @@ Intrusion Detection, Digital Forensics, Cryptography, Network Assurance, Amazon 
 ### Let's Connect
 - 🔗 Connect with me at www.linkedin.com/in/luswepo-sinyinza-69843219a
 - 📧 Email: daniel.luswepo@gmail.com
+- Portfolio: https://danielluswepo.wixsite.com/luswepo-sinyinza
