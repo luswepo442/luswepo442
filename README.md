@@ -4,8 +4,8 @@ I'm currently pursuing a Bachelor's degree in Information Technology with a focu
 
 ### About Me
 - 🌟 **Education:** B.S. in Information Technology (Cybersecurity & Digital Forensics Track)
-- 🏆 **Honors:** TNU Honor Society
-- 💼 **Experience:** Self-employed in IT services | IT Helpdesk Support - Student Worker | IT client services Technician - Student Worker
+- 🏆 **Honors:** TNU Honor Society, PHI Delta Lambda Zeta Chapter
+- 💼 **Experience:** Self-employed in IT services | ITSupport Technician | Cybersecurity Inter
 - 🏆 **Certfications:** CompTia Security+, AWS Solutions Architect Associate(in progress)
 ### Professional Highlights
 - 💻 **Technical Skills:**
